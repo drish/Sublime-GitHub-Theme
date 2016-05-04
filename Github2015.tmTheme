@@ -40,7 +40,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#B8B8B8</string>
+				<string>#818181</string>
 			</dict>
 		</dict>
 		<dict>
@@ -53,7 +53,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#B8B8B8</string>
+				<string>#818181</string>
 			</dict>
 		</dict>
 		<dict>
@@ -64,7 +64,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#B8B8B8</string>
+				<string>#818181</string>
 			</dict>
 		</dict>
 		<dict>
@@ -75,7 +75,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#63636363</string>
+				<string>#818181</string>
 			</dict>
 		</dict>
 		<dict>
@@ -91,10 +91,6 @@
 				<string>#660000</string>
 			</dict>
 		</dict>
-
-
-
-
 
 		<dict>
 			<key>name</key>
@@ -161,7 +157,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#5C00B8</string>
+				<string>#510098</string>
 			</dict>
 		</dict>
 		<dict>
@@ -207,7 +203,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#3399FF</string>
+				<string>#264a60</string>
 			</dict>
 		</dict>
 
@@ -220,11 +216,11 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#0000B8</string>
+				<string>#0f3c9c</string>
 			</dict>
 		</dict>
 
-		
+
 		<dict>
 			<key>name</key>
 			<string>Strings: Escape Sequences</string>
