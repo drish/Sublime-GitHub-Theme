@@ -12,5 +12,5 @@ Install Linux:
 Setup your sublime user settings
 
 ```
-font_face: "Courier New"
+font_face: "Menlo"
 ```
